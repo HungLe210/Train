@@ -102,7 +102,7 @@ void temp :: Forgot(){
                 cout<<"Not found...!\n";
             }
         }else{
-            cout<<"\nNot fount...!\n";
+            cout<<"\nNot found...!\n";
         }
     getline(file,userName,'*');
     getline(file,Email,'*');
